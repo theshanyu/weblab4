@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <book id="1">
+        <title>favourite pet</title>
+        <author>Ziyi Yuan</author>
+        <price>9999.99</price>
+    </book>
+    <book id="2">
+        <title>Best friend</title>
+        <author>Cheng Xiaocheng</author>
+        <price>666666.66</price>
+    </book>
+    <book id="3">
+        <title>Ny girlfriend</title>
+        <author>JCB</author>
+        <price>1314.520</price>
+    </book>
+</catalog>

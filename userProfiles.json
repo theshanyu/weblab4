@@ -1,0 +1,56 @@
+[
+    {
+        "firstName": "Zhang",
+        "lastName": "zishan",
+        "email": "zishanzhang376@gmail.com",
+        "dateOfBirth": "2004-2-29",
+        "address": {
+            "street": "ainilu",
+            "city": "shijiazhuang",
+            "state": "hebei",
+            "zipCode": "050000"
+        },
+        "preferences": {
+            "theme": "dark",
+            "language": "Chinese",
+            "notifications": true,
+            "subscription": true
+        }
+    },
+    {
+        "firstName": "Yuan",
+        "lastName": "Ziyi",
+        "email": "yuanziyi66@gmail.com",
+        "dateOfBirth": "2004-5-1",
+        "address": {
+            "street": "456 Oak St",
+            "city": "Greenville",
+            "state": "TX",
+            "zipCode": "75401"
+        },
+        "preferences": {
+            "theme": "light",
+            "language": "Spanish",
+            "notifications": false,
+            "subscription": false
+        }
+    },
+    {
+        "firstName": "Mike",
+        "lastName": "Johnson",
+        "email": "mike.johnson@example.com",
+        "dateOfBirth": "1992-11-30",
+        "address": {
+            "street": "789 Pine St",
+            "city": "Austin",
+            "state": "TX",
+            "zipCode": "73301"
+        },
+        "preferences": {
+            "theme": "dark",
+            "language": "English",
+            "notifications": true,
+            "subscription": true
+        }
+    }
+]
